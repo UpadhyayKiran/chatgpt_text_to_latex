@@ -2,5 +2,5 @@
 Render latex from text solution derived from chatgpt
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
