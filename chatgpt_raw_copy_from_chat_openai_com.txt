@@ -1,0 +1,5 @@
+Hi I am Kiran Upadhyay, Mathematician and Python Programmer.
+
+This code will render below equation into latex.
+
+$\ sin(x)=0$
